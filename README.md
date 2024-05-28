@@ -2,7 +2,7 @@
   
 ## 🏠
 <p align="center">
-<a href="https://discord.gg/ZHPXxnArga"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700F7&random=false&width=435&lines=Winning+Smile+On+TOP.;Friend+Seek+Cat.;Owner+Moroxi.;What+you+wana+then+join+Discord+with+me.;Me+chill+with+cafe.;All+love+Seek+Cat+because+its+fun..." alt="Typing SVG" /></a>
+[![Typing SVG](https://discord.gg/ZHPXxnArga)?font=Fira+Code&pause=1000&color=5800F7&random=false&width=435&lines=Seek+Cat+On+Top;Friend+Winning+Smile;What+you+wana+then+join+with+me;Me+chill+with+Cafe;All+love+seek+cat+because+its+fun;Join+now+https%3A%2F%2Fdiscord.gg%2FZHPXxnArga;A+Simple+Servers)](https://git.io/typing-svg)
 
 <h3 align="center">Hey there, I'm <a href="https://discord.gg/ZHPXxnArga">Seek Cat</a></h3>
 <h5 align="center">Current nothing ...i</h5>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/seekcat0"> <img src="https://komarev.com/ghpvc/?username=seekcat0&style=for-the-badge&color=purple"> </a>
+         <a href="https://github.com/seekcat0"> <img src="https://komarev.com/ghpvc/?username=seekcat0&style=for-the-badge&color=green"> </a>
       </td>
     </tr>
   </table>
